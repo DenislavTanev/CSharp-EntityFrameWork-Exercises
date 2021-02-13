@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "J285j1+iS1xsXByJFov2HaJdFGH9Fx5a78vvEn8AVUa8A6dm5D+EnZroFLQ5Egv8wG7u3hD7/urKWojXIEFyJw==",
+  "success": true,
+  "projectFilePath": "D:\\CodeIt\\DB\\Code First\\P03_SalesDatabase.Data.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wolfi\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\wolfi\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\wolfi\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\wolfi\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Users\\wolfi\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\wolfi\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
